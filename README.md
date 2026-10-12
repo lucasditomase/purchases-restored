@@ -1,6 +1,6 @@
 # Purchases Restored
 
-Last updated: **September 22, 2026**
+Table last updated: **September 22, 2026**
 
 | App Name | App Version | Purchases Restored |
 |----------|-------------|--------------------|
@@ -8,6 +8,6 @@ Last updated: **September 22, 2026**
 
 ## Important
 
-- This table only applies to paid downloads. Purchases made inside the app, like subscriptions and one-time purchases, are always restored automatically, regardless of app version.
-- If you are using a version older than the one from the table, purchase restoration may not work properly.
+- This table only applies to **paid downloads**. Purchases made inside the app, like subscriptions and one-time purchases, are always restored automatically, regardless of app version.
+- If you are using a **version older than the one from the table**, purchase restoration may not work properly.
 - Some apps cannot restore 100% of the purchases because of current limitations of the APIs used. Once the limitations are resolved, those purchases will be restored, and this table will be updated to reflect that.
